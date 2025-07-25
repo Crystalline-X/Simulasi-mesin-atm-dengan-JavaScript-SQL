@@ -38,5 +38,11 @@ Project ini dibangun dengan menggunakan JavaScript, Node.js dan SQL sebagai data
 
    dan ini:
 
-   ![alt text](?raw=true)
+   ![alt text](https://github.com/Crystalline-X/Simulasi-mesin-atm-dengan-JavaScript-SQL/blob/main/assets/isi2.png?raw=true)
+
+6. setelah itu buat serangkaian kode seperti yang tertera di dalam files
+7. jalankan dengan perintah "node atm.js" di terminal
+
+# NOTES!
+AKTIVITAS TRANSAKSI DI MESIN ATM INI DIBUAT MANUAL DENGAN MENGEDIT INPUT DATABASE NYA SEPERTI DI GUIDE INSTALLATION NOMER 5, SEHINGGA TIDAK BISA MENGISI SEENAKNYA KARENA TIDAK DIBUAT OTOMATIS, JADI DIBIKIN MANUAL DI "databse.sql" SEPERTI PADA GAMBAR NOMER 5!
 

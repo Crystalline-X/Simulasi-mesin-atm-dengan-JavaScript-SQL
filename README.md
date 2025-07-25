@@ -24,9 +24,14 @@ Project ini dibangun dengan menggunakan JavaScript, Node.js dan SQL sebagai data
 3. kemudian buat folder database dan buat file contoh: "database.sql"
 4. lalu buat isi file "database.sql" seperti ini:
 
-   tabel ke-1
+   tabel ke-1:
+   
    ![alt text](https://github.com/Crystalline-X/Simulasi-mesin-atm-dengan-JavaScript-SQL/blob/main/assets/tbl1.png?raw=true)
 
-   tabel ke-2
+   tabel ke-2:
+   
+   ![alt text](https://github.com/Crystalline-X/Simulasi-mesin-atm-dengan-JavaScript-SQL/blob/main/assets/tbl2.png?raw=true)
+
+5. kemudian setelah itu buat validasi datanya seperti ini:
    ![alt text](?raw=true)
 

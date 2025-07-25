@@ -22,6 +22,11 @@ Project ini dibangun dengan menggunakan JavaScript, Node.js dan SQL sebagai data
 1. Buat file di dalam VS code lalu pergi ke opsi terminal lalu masukkan perintah "npm install" kemudian diikuti dengan "npm init" lalu setelahnya tinggal di isi sesuai keinginan masing masing
 2. Setelah itu install extension MySQL di VS code untuk manajemen database nya
 3. kemudian buat folder database dan buat file contoh: "database.sql"
-4. lalu buat isi file "database.sql" seperti ini
+4. lalu buat isi file "database.sql" seperti ini:
+
+   tabel ke-1
+   ![alt text](https://github.com/Crystalline-X/Simulasi-mesin-atm-dengan-JavaScript-SQL/blob/main/assets/tbl1.png?raw=true)
+
+   tabel ke-2
    ![alt text](?raw=true)
 

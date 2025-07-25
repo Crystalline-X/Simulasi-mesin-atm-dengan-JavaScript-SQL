@@ -33,5 +33,10 @@ Project ini dibangun dengan menggunakan JavaScript, Node.js dan SQL sebagai data
    ![alt text](https://github.com/Crystalline-X/Simulasi-mesin-atm-dengan-JavaScript-SQL/blob/main/assets/tbl2.png?raw=true)
 
 5. kemudian setelah itu buat validasi datanya seperti ini:
+   
+   ![alt text](https://github.com/Crystalline-X/Simulasi-mesin-atm-dengan-JavaScript-SQL/blob/main/assets/isi1.png?raw=true)
+
+   dan ini:
+
    ![alt text](?raw=true)
 

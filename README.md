@@ -1,4 +1,4 @@
-#Mini Projek Pembuatan Simulasi Mesin ATM CLI
+# Mini Projek Pembuatan Simulasi Mesin ATM CLI
 
 Project ini dibangun dengan menggunakan JavaScript, Node.js dan SQL sebagai databasenya, project ini menyimulasikan tentang cara kerja kerja mesin ATM dengan berbagai fitur sepeti register, login, tarik tunai, setor tunai, cek saldo, cek history transaksi, dan transfer secara real time
 
